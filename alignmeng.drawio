@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-01-20T03:19:06.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="14.2.4" etag="vXNJhD60nuqJ9BsI8RFS" type="github"><diagram id="PUBzbT-fUYsuHvFrpDx0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-20T03:37:13.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="pcW5J3lSiDMx9BUuhiON" version="14.2.4" type="github">
+  <diagram id="PUBzbT-fUYsuHvFrpDx0" name="Page-1">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LNzTioz0Ti8qeagDFRHm-1" value="马力克 在 1972 年 从 印度 到 加拿大 ， 在 温哥华 创办 一家 大规模 的 控股公司 ， 并 主持 一家 信贷 合作社 和 一所 学校 。&lt;br&gt;&lt;span&gt;	&lt;/span&gt;O O O O O O 500 O O O O 003 O O O O O O O O O O O O O O" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="210" width="860" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LNzTioz0Ti8qeagDFRHm-2" value="1972 年 ， 马利克 从 印度 前往 加拿大 ， 在 温哥华 成立 了 一家 大型 控股公司 ， 并 经营 一家 信用 合作社 和 一所 学校 。&lt;br&gt;&lt;span&gt;	&lt;/span&gt;O O O O O O O O O 500 O 003 O O O O O O O O O O O O O O" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="340" width="820" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LNzTioz0Ti8qeagDFRHm-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Human Annotated Sentence&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4" y="240" width="166" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LNzTioz0Ti8qeagDFRHm-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Paraphrase Sentence&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="360" width="166" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LNzTioz0Ti8qeagDFRHm-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Mapping Information&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="300" width="166" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
