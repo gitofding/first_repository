@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-01-20T13:06:45.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="lpZkJHovZE3jIyP__o_d" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T00:56:14.191Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="NAHCNsX_qsiQrTfkHRYO" version="14.2.5" type="github">
   <diagram id="PUBzbT-fUYsuHvFrpDx0" name="Page-1">
-    <mxGraphModel dx="1038" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LNzTioz0Ti8qeagDFRHm-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="400" width="850" height="290" as="geometry" />
+          <mxGeometry x="60" y="450" width="850" height="230" as="geometry" />
         </mxCell>
         <mxCell id="LNzTioz0Ti8qeagDFRHm-137" value="&lt;font style=&quot;font-size: 14px&quot;&gt;马力克&amp;nbsp; / 在 / 1972 / 年 / 从 / 印度 /&amp;nbsp;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;到&lt;/font&gt;&amp;nbsp;&lt;/b&gt;&amp;nbsp;/ 加拿大 / ，/&amp;nbsp; 在 / 温哥华 /&amp;nbsp;&lt;b&gt;&lt;font color=&quot;#3333ff&quot;&gt;创办&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#ff0000&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/font&gt;/ 一家 / 大规模 / 的 / 控股公司 /&amp;nbsp; 。&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="247" y="480" width="658" height="20" as="geometry" />
+          <mxGeometry x="250" y="520" width="658" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LNzTioz0Ti8qeagDFRHm-138" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1972 / 年 / ，/ 马利克 / 从 / 印度 /&amp;nbsp;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;前往&lt;/font&gt;&lt;/b&gt;&lt;font color=&quot;#0000cc&quot;&gt; /&amp;nbsp;&lt;/font&gt;加拿大 / ，/ 在 / 温哥华 /&amp;nbsp;&lt;b&gt;&lt;font color=&quot;#3333ff&quot;&gt;成立&lt;/font&gt;&amp;nbsp;&lt;/b&gt;/ 了 / 一家 / 大型 / 控股公司&amp;nbsp; / 。&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="247" y="620" width="640" height="20" as="geometry" />
@@ -17,30 +17,30 @@
           <mxGeometry x="80.25" y="605" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LNzTioz0Ti8qeagDFRHm-140" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Mapping Information&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="80.25" y="543" width="147" height="20" as="geometry" />
+          <mxGeometry x="80.25" y="565" width="147" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LNzTioz0Ti8qeagDFRHm-141" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Human-annotated Sentence&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="80.25" y="480" width="135.5" height="20" as="geometry" />
+          <mxGeometry x="80.25" y="520" width="135.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LNzTioz0Ti8qeagDFRHm-144" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Malik &lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;went&lt;/font&gt;&lt;/b&gt; from India to Canada in 1972 to &lt;b&gt;&lt;font color=&quot;#3333ff&quot;&gt;set up&lt;/font&gt;&lt;/b&gt; a large holding company in Vancouver.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="650" width="562" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LNzTioz0Ti8qeagDFRHm-151" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Movement: transport&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#FF3333;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="402" y="416.25" width="152" height="20" as="geometry" />
+          <mxGeometry x="401" y="460" width="152" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LNzTioz0Ti8qeagDFRHm-161" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Business: start-org&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#3333FF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="609" y="416.25" width="140" height="20" as="geometry" />
+          <mxGeometry x="599" y="460" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LNzTioz0Ti8qeagDFRHm-163" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.348;exitY=-0.026;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="LNzTioz0Ti8qeagDFRHm-137" target="LNzTioz0Ti8qeagDFRHm-151" edge="1">
+        <mxCell id="LNzTioz0Ti8qeagDFRHm-163" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="470" as="sourcePoint" />
-            <mxPoint x="560" y="420" as="targetPoint" />
+            <mxPoint x="477" y="520" as="sourcePoint" />
+            <mxPoint x="477" y="481" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LNzTioz0Ti8qeagDFRHm-167" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.348;exitY=-0.026;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670.0040000000001" y="480" as="sourcePoint" />
-            <mxPoint x="672.0199999999998" y="436.77" as="targetPoint" />
+            <mxPoint x="667.9940000000001" y="522" as="sourcePoint" />
+            <mxPoint x="670.0099999999998" y="478.77" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LNzTioz0Ti8qeagDFRHm-170" value="" style="endArrow=none;dashed=1;html=1;entryX=0.347;entryY=1.056;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LNzTioz0Ti8qeagDFRHm-194" target="LNzTioz0Ti8qeagDFRHm-137" edge="1">
@@ -107,7 +107,7 @@
           <mxGeometry x="868" y="610" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="LNzTioz0Ti8qeagDFRHm-194" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="468" y="500" width="10" height="10" as="geometry" />
+          <mxGeometry x="469" y="540" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="LNzTioz0Ti8qeagDFRHm-195" value="" style="endArrow=none;dashed=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="LNzTioz0Ti8qeagDFRHm-194" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -116,7 +116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LNzTioz0Ti8qeagDFRHm-196" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="662" y="500" width="10" height="10" as="geometry" />
+          <mxGeometry x="664" y="540" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="LNzTioz0Ti8qeagDFRHm-197" value="" style="endArrow=none;dashed=1;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="LNzTioz0Ti8qeagDFRHm-196" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
