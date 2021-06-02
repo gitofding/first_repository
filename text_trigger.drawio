@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T12:50:34.975Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="zkgC7cxnfTJvni-QPCpI" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T12:50:59.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="5ldDgpnrLXXC0ScWsduX" version="14.7.3" type="github">
   <diagram id="YPYotsMvMSeZRZDJY0u-" name="Page-1">
     <mxGraphModel dx="782" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6ig5p9dbRhZ8NJoWkjug-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="180" width="660" height="325" as="geometry" />
+          <mxGeometry x="40" y="180" width="620" height="325" as="geometry" />
         </mxCell>
         <mxCell id="6ig5p9dbRhZ8NJoWkjug-13" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;中共 、 南韩 、 日本 &lt;font color=&quot;#6666ff&quot; style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;成立&lt;/font&gt; 东亚 政治经济 团 。&lt;span&gt; &lt;/span&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="210" width="290" height="20" as="geometry" />
