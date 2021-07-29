@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-29T07:14:42.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="ygyfyVQXX0ODsjTMnxuV" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-29T07:18:37.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="yXYZL76v2hIH2wQNLj4B" version="14.9.2" type="github">
   <diagram id="dobOyg4vtvWRXq0azZIz" name="Page-1">
     <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,10 +94,10 @@
         <mxCell id="5bSi_qPv952segXHp5Zx-47" value="&lt;b&gt;Event&amp;nbsp; Detection Model&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="380" width="190" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5bSi_qPv952segXHp5Zx-51" value="&lt;b&gt;loss(gold)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+        <mxCell id="5bSi_qPv952segXHp5Zx-51" value="&lt;b&gt;loss(&lt;i&gt;L&lt;sub&gt;augu&lt;/sub&gt;&lt;/i&gt;&lt;/b&gt;&lt;b&gt;)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="171" y="300" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5bSi_qPv952segXHp5Zx-53" value="&lt;b&gt;loss(auto)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" parent="1" vertex="1">
+        <mxCell id="5bSi_qPv952segXHp5Zx-53" value="&lt;b&gt;loss(&lt;i&gt;L&lt;sub&gt;MIL&lt;/sub&gt;&lt;/i&gt;)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="315" y="300" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5bSi_qPv952segXHp5Zx-57" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
