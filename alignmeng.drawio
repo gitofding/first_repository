@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-30T02:05:26.010Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="fTcwodE7-K_FDJibAE8C" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-30T02:06:48.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="PD8inTNOVO51Gt0fAV0Z" version="15.5.6" type="github">
   <diagram id="PUBzbT-fUYsuHvFrpDx0" name="Page-1">
     <mxGraphModel dx="782" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry x="90" y="574.5" width="143" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LNzTioz0Ti8qeagDFRHm-141" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Human-annotated sentence&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="100" y="520" width="130.75" height="20" as="geometry" />
+          <mxGeometry x="90" y="520" width="130.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LNzTioz0Ti8qeagDFRHm-144" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Malik &lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;went&lt;/font&gt;&lt;/b&gt; from India to Canada in 1972 to &lt;b&gt;&lt;font color=&quot;#3333ff&quot;&gt;set up&lt;/font&gt;&lt;/b&gt; a large holding company in Vancouver.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="650" width="562" height="20" as="geometry" />
